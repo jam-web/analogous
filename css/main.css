@@ -96,9 +96,6 @@ header p {
     overflow: auto;
 }
 
-#portfolio .full-width {
-}
-
 #portfolio h2 {
     color:  #095156;
     font-size:  36px;
@@ -216,5 +213,4 @@ header p {
     padding-left: 50px;
     padding-bottom: 75px;
     text-align: center;
-}
 }
